@@ -1,0 +1,33 @@
+appId: com.vivian.desktop-pet
+productName: Vivian Desk Pet
+directories:
+  output: release
+  buildResources: build
+# 直接复用已安装的 Electron 发行版，避免打包时重复从 GitHub 下载
+electronDist: node_modules/electron/dist
+files:
+  - out/**
+  # 托盘图标运行时需要；角色图已由渲染层打包进 out/renderer，不再重复带 assets/source
+  - assets/icons/**
+  - assets/fonts/OFL.txt
+  - assets/CREDITS.md
+  - LICENSE
+  - LICENSE-ASSETS
+  - NOTICE
+  - package.json
+asar: true
+win:
+  icon: build/icon.ico
+  target:
+    - target: nsis
+      arch:
+        - x64
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  deleteAppDataOnUninstall: true
+  include: build/installer.nsh
+  artifactName: Vivian-Desk-Pet-${version}-Setup.${ext}

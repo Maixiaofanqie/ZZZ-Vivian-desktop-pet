@@ -1,0 +1,44 @@
+# 依赖
+node_modules/
+
+# 构建产物
+out/
+dist/
+release/
+
+# 本地配置与密钥（绝不提交）
+config.local.json
+*.local.json
+secrets.bin
+.env
+.env.*
+
+# 角色美术 overlay（有授权的本地素材，不提交）
+assets/characters/*
+!assets/characters/README.md
+
+# 签名材料
+*.pfx
+*.p12
+*.pem
+*.key
+*.cer
+*.crt
+
+# 日志与缓存
+*.log
+.vite/
+.vitest/
+coverage/
+
+# 编辑器与本地设置
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.claude/settings.local.json
+*.tsbuildinfo
+
+# 系统
+Thumbs.db
+Desktop.ini
+.DS_Store

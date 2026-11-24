@@ -1,0 +1,48 @@
+# 第三方软件与素材声明
+
+本项目包含或依赖以下第三方内容。各内容的许可归其权利人所有。
+
+## Noto Serif SC
+
+- 文件：`assets/fonts/NotoSerifSC-VF.ttf`
+- 版权：Copyright 2017–2023 Adobe
+- 许可：SIL Open Font License 1.1（OFL-1.1）
+- 许可全文：`assets/fonts/OFL.txt`
+- 本地文件版本：`2.02;241114204558;non-release`
+- 文件大小：25,129,160 字节
+- SHA-256：`a4aed9985a5916fbf6690456f8732a9fccd517938e353165d4142b4f11a39280`
+- 来源：Google Fonts / notofonts/noto-cjk 上游发行版
+- 说明：未修改字体文件；未单独售卖字体；未使用 Noto 名称推广修改版。字体可随应用一起分发。
+
+## Electron 与 Chromium
+
+- Electron：MIT License
+- Chromium：BSD-style 及附带的其他开源许可
+- 安装包内保留 `LICENSE.electron.txt` 与 `LICENSES.chromium.html`。
+
+## React / React DOM
+
+- MIT License
+- <https://github.com/facebook/react>
+
+## Zod
+
+- MIT License
+- <https://github.com/colinhacks/zod>
+
+## Open-Meteo
+
+- 天气数据由 [Open-Meteo.com](https://open-meteo.com/) 提供。
+- 数据许可：CC BY 4.0。
+- 本项目只在用户启用天气模块并选择城市后请求 `geocoding-api.open-meteo.com` 与 `api.open-meteo.com`，不发送其他本机信息。
+
+## 其他开发依赖
+
+Biome、electron-vite、Vite、Vitest、TypeScript、electron-builder 等开发依赖的许可随各自软件包提供，不随安装包分发（electron-builder 的 NSIS 运行时除外，其许可见安装包内声明）。
+
+## 角色形象与同人声明
+
+- 《绝区零》及相关角色版权归米哈游（miHoYo）所有。
+- 本项目为非官方同人作品，与米哈游无隶属关系，不售卖、不内购、不投放广告。
+- 官方非商业发行版中的角色美术按素材作者授权提供，**不在本源码仓库中**，不适用 MIT。详见 `LICENSE-ASSETS`。
+- 若版权方或素材作者提出要求，维护者会停止分发并下架相关内容。
