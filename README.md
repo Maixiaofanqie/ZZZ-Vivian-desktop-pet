@@ -1,7 +1,5 @@
 # 薇薇安桌宠 · Vivian Desktop Pet
 
-<img src="build/icon.svg" width="88" height="88" alt="Vivian Desktop Pet 图标">
-
 面向 Windows 11 的非商业同人桌面宠物。她安静地待在桌面右下角：单击说一句话，拖拽换位置，久坐、深夜和整点时会轻声提醒。项目使用 Electron、TypeScript 与 React 构建。
 
 > **源码仓库说明**：本仓库**不包含角色美术**。从源码构建时宠物窗口为空（透明、不拦截点击）；包含完整角色形象的官方安装包只在 [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases) 提供，按作者抖音@星穹列车星某的非商业同人授权分发。

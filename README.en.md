@@ -2,8 +2,6 @@
 
 An unofficial, non-commercial Windows 11 desktop pet built with Electron, TypeScript and React.
 
-<img src="build/icon.svg" width="88" height="88" alt="Vivian Desktop Pet icon">
-
 > **Source repository note:** this repository intentionally contains **no character artwork**. A source build has an empty pet window. The official non-commercial release, available from [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases), includes the full character art under the permission of 抖音@星穹列车星某.
 
 ## Features
