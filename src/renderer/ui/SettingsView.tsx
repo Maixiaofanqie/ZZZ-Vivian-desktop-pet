@@ -1082,7 +1082,7 @@ export function SettingsView() {
           <div className="settings-row">
             <div>
               <span>性质</span>
-              <small>非商业同人作品；角色美术不随源码仓库分发</small>
+              <small>非商业同人作品；官方版角色美术由抖音@星穹列车星某非商用授权</small>
             </div>
           </div>
           <div className="settings-row">

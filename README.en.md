@@ -4,7 +4,7 @@ An unofficial, non-commercial Windows 11 desktop pet built with Electron, TypeSc
 
 <img src="build/icon.svg" width="88" height="88" alt="Vivian Desktop Pet icon">
 
-> **Source repository note:** this repository intentionally contains **no character artwork**. A source build has an empty pet window. The official non-commercial release, available from [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases), includes the full character art under the artist's permission.
+> **Source repository note:** this repository intentionally contains **no character artwork**. A source build has an empty pet window. The official non-commercial release, available from [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases), includes the full character art under the permission of 抖音@星穹列车星某.
 
 ## Features
 
@@ -41,7 +41,7 @@ npm run dist         # NSIS installer with neutral icons and no character art
 
 - Code, original documentation and neutral icons: MIT. See [LICENSE](LICENSE).
 - Noto Serif SC: SIL Open Font License 1.1. See [assets/fonts/OFL.txt](assets/fonts/OFL.txt) and [NOTICE](NOTICE).
-- Character artwork: **not included in this repository**. The official non-commercial release includes it under the artist's permission. It is not MIT-licensed and may not be commercially adapted, extracted for redistribution, or reused in other projects. See [LICENSE-ASSETS](LICENSE-ASSETS).
+- Character artwork: **not included in this repository**. The official non-commercial release includes it under the permission of 抖音@星穹列车星某. It is not MIT-licensed and may not be commercially adapted, extracted for redistribution, or reused in other projects. See [LICENSE-ASSETS](LICENSE-ASSETS).
 - Third-party notices: [NOTICE](NOTICE).
 
 ## Privacy

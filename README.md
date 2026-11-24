@@ -4,7 +4,7 @@
 
 面向 Windows 11 的非商业同人桌面宠物。她安静地待在桌面右下角：单击说一句话，拖拽换位置，久坐、深夜和整点时会轻声提醒。项目使用 Electron、TypeScript 与 React 构建。
 
-> **源码仓库说明**：本仓库**不包含角色美术**。从源码构建时宠物窗口为空（透明、不拦截点击）；包含完整角色形象的官方安装包只在 [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases) 提供，按作者的非商业同人授权分发。
+> **源码仓库说明**：本仓库**不包含角色美术**。从源码构建时宠物窗口为空（透明、不拦截点击）；包含完整角色形象的官方安装包只在 [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases) 提供，按作者抖音@星穹列车星某的非商业同人授权分发。
 
 [English summary](README.en.md)
 
@@ -103,7 +103,7 @@ docs/         用户手册、架构、设计与开发文档
 
 - **代码、原创文档与原创中性图标**：MIT，见 [LICENSE](LICENSE)。
 - **Noto Serif SC 字体**：SIL Open Font License 1.1，随应用分发；许可全文见 [assets/fonts/OFL.txt](assets/fonts/OFL.txt)，来源与版本记录见 [NOTICE](NOTICE) 与 [assets/CREDITS.md](assets/CREDITS.md)。
-- **角色美术**：**不在本仓库中**。官方非商业发行版按作者授权包含完整角色形象；该素材不适用 MIT，不允许商业改编、提取后再分发或复用于其他项目。详见 [LICENSE-ASSETS](LICENSE-ASSETS)。
+- **角色美术**：**不在本仓库中**。官方非商业发行版按作者 **抖音@星穹列车星某** 的非商业授权包含完整角色形象；该素材不适用 MIT，不允许商业改编、提取后再分发或复用于其他项目。详见 [LICENSE-ASSETS](LICENSE-ASSETS)。
 - **第三方依赖**：Electron/Chromium、React、Zod、Open-Meteo 等归属与许可见 [NOTICE](NOTICE)。
 
 本项目是《绝区零》的非官方同人作品。《绝区零》及相关角色版权归米哈游（miHoYo）所有；本项目与米哈游无隶属关系，不售卖、不内购、不投放广告。若版权方或素材作者要求，维护者会下架相关内容。
@@ -122,7 +122,7 @@ docs/         用户手册、架构、设计与开发文档
 
 Vivian Desktop Pet is an unofficial, non-commercial Windows 11 desktop pet built with Electron, TypeScript and React. It lives in the corner of your desktop, speaks through a small bubble, remembers interactions locally, and ships optional modules such as a pomodoro timer, reminders, a read-only Claude Code project panel, weather via Open-Meteo, and a schedule list.
 
-**This source repository intentionally contains no character artwork.** A source build has an empty pet window. The official non-commercial release includes the full character art under the artist's permission; that artwork is not MIT-licensed and may not be commercially adapted, extracted, redistributed, or reused in other projects. See [LICENSE-ASSETS](LICENSE-ASSETS).
+**This source repository intentionally contains no character artwork.** A source build has an empty pet window. The official non-commercial release includes the full character art under the permission of 抖音@星穹列车星某; that artwork is not MIT-licensed and may not be commercially adapted, extracted, redistributed, or reused in other projects. See [LICENSE-ASSETS](LICENSE-ASSETS).
 
 Code, original documentation and the neutral icons are MIT-licensed. Noto Serif SC is distributed under the SIL Open Font License 1.1. See [NOTICE](NOTICE) and [README.en.md](README.en.md).
 
