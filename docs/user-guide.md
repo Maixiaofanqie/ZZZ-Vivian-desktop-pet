@@ -1,12 +1,12 @@
 # 薇薇安桌宠 · 用户手册
 
-> 版本：v1.0.0
+> 版本：v1.0.1
 > 适用系统：Windows 11（x64）
 > 性质：非商业同人作品，免费分享；不得售卖或用于商业推广。
 
 ## 1. 安装
 
-1. 从 [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases) 下载 `Vivian-Desk-Pet-1.0.0-Setup.exe`。
+1. 从 [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases) 下载最新版安装包。
 2. 如果 Windows 弹出「已保护你的电脑」提示：点击「更多信息」→「仍要运行」。安装包没有购买代码签名证书，这是正常提示；不要关闭 SmartScreen 或修改系统安全设置。
 3. 选择安装目录（默认按当前用户安装，不需要管理员权限），按向导完成安装。
 4. 安装完成后，桌面和开始菜单会出现「Vivian Desk Pet」快捷方式。勾选「开机自启」后，登录 Windows 时会自动启动。

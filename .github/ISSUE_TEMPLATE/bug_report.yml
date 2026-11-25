@@ -12,7 +12,7 @@ body:
     attributes:
       label: 版本
       description: 设置页显示的版本号，或 Release 文件名
-      placeholder: v1.0.0
+      placeholder: v1.0.1
     validations:
       required: true
   - type: dropdown

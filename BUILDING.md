@@ -73,7 +73,7 @@ assets/characters/<set>/vivian_static_07.png
 要求：
 - 512×512 RGBA PNG，透明背景，无白边。
 - 文件名严格为 `vivian_static_01.png` 到 `vivian_static_07.png`。
-- 顺序对应设置页标签：大笑 / 平静 / 委屈 / 害羞 / 慌张 / 困倦 / 眨眼。
+- 顺序对应设置页标签：大笑 / 无语 / 委屈 / 思考 / 嫌弃 / 开摆 / wink。
 - `assets/characters/*/` 已被 `.gitignore` 忽略，不要提交到公开仓库。
 
 构建前可用环境变量强制要求 7 张图：

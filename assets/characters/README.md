@@ -27,7 +27,7 @@ assets/characters/<set>/vivian_static_07.png
 要求：
 - PNG，512×512，RGBA，透明背景，无白边。
 - 文件名严格为 `vivian_static_01.png` 到 `vivian_static_07.png`。
-- 顺序对应设置页标签：大笑 / 平静 / 委屈 / 害羞 / 慌张 / 困倦 / 眨眼。
+- 顺序对应设置页标签：大笑 / 无语 / 委屈 / 思考 / 嫌弃 / 开摆 / wink。
 - 该目录已被 `.gitignore` 忽略（`assets/characters/*`，保留本 README），不要提交到公开仓库。
 - 维护者构建前可用 `VIVIAN_REQUIRE_CHARACTER_ART=1 npm run check-assets` 强制要求 7 张图。
 

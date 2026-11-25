@@ -6,7 +6,7 @@ const imageModules = import.meta.glob('../../assets/characters/*/vivian_static_*
   import: 'default',
 }) as Record<string, string>
 
-const LABELS = ['大笑', '平静', '委屈', '害羞', '慌张', '困倦', '眨眼']
+const LABELS = ['大笑', '无语', '委屈', '思考', '嫌弃', '开摆', 'wink']
 
 export interface StaticImage {
   id: string

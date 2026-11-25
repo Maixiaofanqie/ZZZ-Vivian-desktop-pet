@@ -12,7 +12,7 @@ describe('形象选择', () => {
     'vivian_static_07',
   ]
 
-  it('默认形象为第 7 张（眨眼）', () => {
+  it('默认形象为第 7 张（wink）', () => {
     expect(DEFAULT_IMAGE_ID).toBe('vivian_static_07')
   })
 

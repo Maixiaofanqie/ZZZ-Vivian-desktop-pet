@@ -1,6 +1,6 @@
 {
   "name": "vivian-desktop-pet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "薇薇安桌宠 — 基于 Electron 的桌面陪伴程序",
   "main": "./out/main/index.js",

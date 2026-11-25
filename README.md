@@ -26,7 +26,7 @@
 
 ## 安装（官方发行版）
 
-1. 从 [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases) 下载 `Vivian-Desk-Pet-1.0.0-Setup.exe`。
+1. 从 [Releases](https://github.com/Maixiaofanqie/ZZZ-Vivian-desktop-pet/releases) 下载最新版安装包。
 2. 如果 Windows 显示「已保护你的电脑」，点击「更多信息」→「仍要运行」。安装包没有代码签名证书；请不要关闭 SmartScreen 或修改系统安全设置。
 3. 按向导安装。默认按当前用户安装，不需要管理员权限。
 4. 安装完成后，桌面与开始菜单会出现快捷方式；可在设置中开启「开机自启」。
